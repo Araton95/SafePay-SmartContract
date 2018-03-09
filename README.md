@@ -5,7 +5,7 @@ Ethereum based solution for secure online shoping 🛍️🛒
 [![Platform](https://img.shields.io/badge/Compiler-^0.4.18-yellow.svg)](http://solidity.readthedocs.io/en/v0.4.18/)
 
 ## It's simple solution for secure online shopping.
-If you buy something on a website, buyer/courier will get their money only after delivery your product. 
+Buying something with this smart contract, buyer/courier will get their money only after delivers your product. 
 All info about order and shipment will be based on blockchain for transparency.
 
 ## STEP 1 - Company deploys smart contract
